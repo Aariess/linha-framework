@@ -1,0 +1,8 @@
+{
+ "name": "Aariess/linha-framework",
+    "autoload": {
+        "psr-0" : {
+            "Aariess\\linha-framework" : "src"
+        }
+    }
+}
